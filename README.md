@@ -1,7 +1,5 @@
-<a href="https://tenor.com/view/chaos-head-chaos-world-chaos-child-typing-takumi-nishijou-gif-20829914</a>
 
-
-  
+ 
 -  Hi there! Myself  Ankit kumar sinha ,
 -  A Cybersecurity Enthusiastic Student.
 -  Passionate about Red Teaming And Ethical Hacking,
