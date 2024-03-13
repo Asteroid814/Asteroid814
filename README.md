@@ -1,5 +1,5 @@
 
-![keyboard-typing](https://github.com/Astersec/Astersec/assets/153685797/370af554-bcfd-4c1d-8b82-fda1ed1640d1)
+![keyboard-typing]([https://github.com/Astersec/Astersec/assets/153685797/370af554-bcfd-4c1d-8b82-fda1ed1640d1](https://raw.githubusercontent.com/Ethere4l/Ethere4l/main/typing-productive.gif))
 
 
 
