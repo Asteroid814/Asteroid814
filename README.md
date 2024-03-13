@@ -1,4 +1,7 @@
-<iframe src="https://raw.githubusercontent.com/Ethere4l/Ethere4l/main/typing-productive.gif"</iframe>
+<img src="https://raw.githubusercontent.com/Ethere4l/Ethere4l/main/typing-productive.gif"</img>
+
+
+  
 -  Hi there! Myself  Ankit kumar sinha ,
 -  A Cybersecurity Enthusiastic Student.
 -  Passionate about Red Teaming And Ethical Hacking,
