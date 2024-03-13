@@ -1,9 +1,4 @@
-
-![keyboard-typing]([https://github.com/Astersec/Astersec/assets/153685797/370af554-bcfd-4c1d-8b82-fda1ed1640d1](https://raw.githubusercontent.com/Ethere4l/Ethere4l/main/typing-productive.gif))
-
-
-
-
+<iframe src="https://raw.githubusercontent.com/Ethere4l/Ethere4l/main/typing-productive.gif"</iframe>
 -  Hi there! Myself  Ankit kumar sinha ,
 -  A Cybersecurity Enthusiastic Student.
 -  Passionate about Red Teaming And Ethical Hacking,
