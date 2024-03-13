@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif
+![491ecfcebd2192e29b758ca798717ec6](https://github.com/Asteroid814/Asteroid814/assets/163339410/b94c5fb6-c9a5-4ea9-b63b-09591b0bb06e)
+
  
 -  Hi there! Myself  Ankit kumar sinha ,
 -  A Cybersecurity Enthusiastic Student.
